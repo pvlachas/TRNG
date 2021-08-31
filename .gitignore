@@ -1,3 +1,7 @@
 
+*.pdf
 *.pickle
 **/Data/
+**/__pycache__
+**/Figures
+
